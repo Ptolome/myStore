@@ -1,0 +1,2 @@
+# myStore
+server for shop
